@@ -1,1 +1,2 @@
-"lhl_final" 
+# Lighthouse Labs Final Project
+
